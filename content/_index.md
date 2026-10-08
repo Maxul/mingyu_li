@@ -14,7 +14,7 @@ sections:
       headings:
         about: 'About Me'
         education: ''
-        interests: ''
+        interests: 'Research Interests'
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -38,6 +38,7 @@ sections:
           - publications
     design:
       view: citation
+      css_class: 'text-xl'
   - block: markdown
     content:
       title: 'News'
