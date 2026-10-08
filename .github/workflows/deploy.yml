@@ -63,6 +63,8 @@ jobs:
     if: github.repository_owner != 'HugoBlox'
     uses: ./.github/workflows/build.yml
     secrets: inherit
+    env:
+      HUGO_VERSION: 0.136.5
 
   # Deploy website to GitHub Pages hosting (only if configured)
   deploy:
