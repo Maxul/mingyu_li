@@ -14,10 +14,10 @@ status:
 role: Associate Researcher
 bio: |
   I am an Associate Researcher at the Institute of Software, Chinese Academy of Sciences (ISCAS).
-  My research focuses on the intersection of operating systems, LLM agents, and confidential computing.
-  I am passionate about building AI-native operating systems (AIOS) that are both reliable and efficient,
+  My research interests focus on the interdiscipline area of operating systems, LLM agents, and confidential computing.
+  I am passionate about building AI-native operating systems (AIOS) with both reliablity and efficiency,
   in particular, designing LLM-friendly OS abstractions to empower the next generation of computer-use agents.
-  I published papers at systems conferences such as OSDI, EuroSys, ISCA, and USENIX Security.
+  My work has appeared at top systems conferences including OSDI, EuroSys, ISCA, and USENIX Security.
 
   I am honored to have served or am serving as a Program Committee member for AgenticOS workshop 2026, WUOS 2025,
   OSDI/ATC AEC 2024, SOSP/OSDI/ATC AEC 2023, OSDI/ATC AEC 2022, SOSP AEC 2021.
