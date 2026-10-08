@@ -40,6 +40,7 @@ sections:
       view: citation
       css_class: 'text-xl'
   - block: markdown
+    id: news
     content:
       title: 'News'
       subtitle: ''
@@ -51,6 +52,7 @@ sections:
     design:
       columns: '1'
   - block: markdown
+    id: students
     content:
       title: 'Students'
       text: |
